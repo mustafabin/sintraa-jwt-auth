@@ -12,6 +12,7 @@ gem "thin", "~> 1.8"
 # faker data
 gem "faker"
 gem "bcrypt"
+gem "jwt"
 
 # Rack middleware. Used specifically for parsing the request body into params.
 # https://github.com/rack/rack-contrib
